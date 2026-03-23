@@ -1,6 +1,9 @@
 Backlog User Stories — tracking products tool 
 Edgard&Cooper | Version 1 | 23/03/2026
 
+| ID | User Story | Priorité MoSCoW | Critère d'acceptation |
+|---|---|---|---|
+
 | US-01 | En tant que Directeur e-commerce, je veux recevoir une alerte Slack le lundi matin listant les produits OOS par marché afin de réagir rapidement | Must Have | L'alerte est envoyée chaque lundi avant 9h avec la liste des ASINs OOS par marché |
 
 | US-02 | En tant que directrice marketing, je veux m'assurer que le budget marketing n'est pas utilisé pour un produit invendable. | Must Have | Un rapport hebdomadaire OOS est accessible à la Directrice Marketing chaque lundi |
