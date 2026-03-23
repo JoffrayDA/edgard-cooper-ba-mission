@@ -1,0 +1,5 @@
+| Page | User story couverte | Visuels prévus | Destinataire |
+
+| 1 | US-01/03a/04/05 | Carte sur le nombre de OOS / Slicer pour trier par pays / Slicer pour trier par catégorie / Histogramme pour OOS par catégorie / Graphique à courbe pour voir les variations des OOS | Directeur e-commerce / Responsable marketing / Responsable e-commerce |
+| 2 | US-03b/05 | Graphique à courbe pour voir les variations des prix au cours des dernières semaines/mois / carte pour voir les variations chiffrés par catégorie / Slicer catégorie et pays / Histogramme pour voir le nomnbre de produits affecté par une variation de prix ou non | Destinataire | Country Manager / Responsable e-commerce / Directeur e-commerce |
+| 3 | US-02/03a| Slicer pays / catégorie / Histogramme sur les produits OOS ou non, Histogramme par catégorie des OOS, cartes pour les variations et OOS / liste des produits avec statut OOS / carte COAGS en fonction des ASINS / Tableau des différents ASINS | Directrice Marketing |
