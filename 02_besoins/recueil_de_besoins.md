@@ -6,8 +6,7 @@ Problème prix et OOS - Amazon Vendor :
 ## Décisions prises
 - Mise en place d'une solution de suivi des prix et des produits n'ayant plus de stock.
 - Mise en place rapide sous 1 mois maximum
-- Mise en place d'un système d'alerte ou notifications sur Slack pour les produits subissant une baisse a x % ou des produits OOS à certains membres précis de l'équipe en fonction de l'information transmise.
-- 
+- Mise en place d'un système d'alerte pour les OOS envoyée chaque lundi avant 9h. Alerte Prix envoyée chaque jeudi avant 9h.
 
 ## Informations clés recueillies
 - Besoin d'un système qui vient vers l'équipe et pas l'inverse > Alertes Slack 
